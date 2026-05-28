@@ -1,0 +1,32 @@
+aid: openwhyd
+name: Openwhyd
+description: "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)"
+url: https://openwhyd.github.io/openwhyd/API
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Music"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Music
+  - Public APIs
+apis:
+  - name: Openwhyd
+    description: "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)"
+    humanURL: https://openwhyd.github.io/openwhyd/API
+    baseURL: https://openwhyd.github.io/openwhyd/API
+    tags:
+      - Music
+    properties:
+      - type: Documentation
+        url: https://openwhyd.github.io/openwhyd/API
+common:
+  - type: Website
+    url: https://openwhyd.github.io/openwhyd/API
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
