@@ -39,7 +39,6 @@ apis:
   - name: Openwhyd
     description: "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)"
     humanURL: https://openwhyd.github.io/openwhyd/API
-    baseURL: https://openwhyd.github.io/openwhyd/API
     tags:
       - Music
     properties:
